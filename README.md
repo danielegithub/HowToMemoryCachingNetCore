@@ -1,16 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
+<header>
+.NET Core - Utilizzo della Memory Cache
+</header>
+<main>
   
-  <title>Tutorial memory cache .net core</title>
-  </head>
+Come utilizzare la Memory Cache in .NET Core
+=============
+*    Richiamare servizi web per avere molte informazioni
+*    Restiture tali informazioni non dalla cache
+*    Evitare di effettuare nuove chiamate fino a quando i dati sono in cache
 
-  <body >
-  <div>
-  <p>Come costruire un'applicazione .net core, utilizzado la memory cache</p>
-  </div>
 
-  </body>
-</html>
+</main>
