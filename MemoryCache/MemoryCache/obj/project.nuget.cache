@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NccLJcX2nqDL3t9GgeAC/9wbL9bHWdUBDsjUYqBqG/9faYW69z8LhHw4t1CdDKsgSXG81L7ULJ7pfl5LXM7Zlw==",
+  "dgSpecHash": "j60cDfYWNbrc6FsHEKvmYzuLIgZCLvUSCyCkSOuTo8yc9UWv2vnb1SCOev6F21v5dWJmJf+mGbfxgoHT0Uyn5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\danie\\Documents\\GitHub\\HowToMemoryCachingNetCore\\MemoryCache\\MemoryCache\\MemoryCache.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.5\\microsoft.extensions.dependencyinjection.3.1.5.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512"
+  ],
   "logs": []
 }
